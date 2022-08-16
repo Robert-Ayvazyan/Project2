@@ -1,0 +1,19 @@
+#question1,#question2,#question3,#question4,#question5{
+    border-radius: 4px;
+    border:1.5px solid rgb(9, 9, 87);
+    background-color: rgb(250, 242, 242);
+}
+.q1,.q2,.q3,.q4,.q5{
+ font-family: 'Times New Roman', Times, serif;
+ color:rgb(30, 30, 108);
+}
+#finish{
+    background-color:  #008CBA;
+    border:none;
+    font-size:18px;
+    color: aliceblue;
+    padding:8px 15px ;
+    text-align:center;
+    border-radius: 3px;
+  
+}
